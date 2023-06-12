@@ -32,6 +32,7 @@ class Detail {
     required this.type,
   });
 
+
   List<String> loc;
   String msg;
   String type;

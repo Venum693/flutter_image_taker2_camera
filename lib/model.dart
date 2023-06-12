@@ -24,6 +24,7 @@ class Welcome {
   };
 }
 
+
 class Detail {
   Detail({
     required this.loc,
